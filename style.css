@@ -135,7 +135,7 @@ body {
 .hero {
   height: 90vh;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-              url("hero-background.jpg") center/cover no-repeat;
+              url("starry_sun.jpg") center/cover no-repeat;
   display: flex;
   justify-content: center;
   align-items: center;
